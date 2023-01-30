@@ -1,4 +1,4 @@
-package com.hryt.proptest.utils;
+package com.tmxk.android-base.utils;
 
 import android.util.Log;
 
